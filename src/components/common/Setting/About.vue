@@ -46,16 +46,17 @@ onMounted(() => {
       </h2>
       <div class="p-2 space-y-2 rounded-md bg-neutral-100 dark:bg-neutral-700">
         <p>
-          此项目开源于
-          <a
+          OpenAI (GPT-3.5turbo) - Version 版本基于MIT协议
+        </p>
+				<p>
+				  了解更多使用方法请阅读
+				  <a
             class="text-blue-600 dark:text-blue-500"
             href="https://github.com/Chanzhaoyu/chatgpt-web"
             target="_blank"
           >
-            GitHub
+            使用文档
           </a>
-          ，免费且基于 MIT 协议，没有任何形式的付费行为！
-        </p>
         <p>
           如果你觉得此项目对你有帮助，请在 GitHub 帮我点个 Star 或者给予一点赞助，谢谢！
         </p>
