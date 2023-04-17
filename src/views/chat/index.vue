@@ -484,7 +484,7 @@ onUnmounted(() => {
           <template v-if="!dataSources.length">
             <div class="flex items-center justify-center mt-4 text-center text-neutral-300">
               <SvgIcon icon="ri:bubble-chart-fill" class="mr-2 text-3xl" />
-              <span>Aha~</span>
+              <span>"Internal testing stage" 内测阶段，进入内测群获取新版本体验资格！</span>
             </div>
           </template>
           <template v-else>
