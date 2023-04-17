@@ -57,8 +57,6 @@ onMounted(() => {
           >
             使用文档
           </a>
-        <p>
-          如果你觉得此项目对你有帮助，请在 GitHub 帮我点个 Star 或者给予一点赞助，谢谢！
         </p>
       </div>
       <p>{{ $t("setting.api") }}：{{ config?.apiModel ?? '-' }}</p>
