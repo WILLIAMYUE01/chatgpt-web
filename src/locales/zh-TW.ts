@@ -74,7 +74,7 @@ export default {
     monthlyUsage: '本月使用量',
   },
   store: {
-    siderButton: '提示詞商店',
+    siderButton: 'Prompt Store',
     local: '本機',
     online: '線上',
     title: '標題',
